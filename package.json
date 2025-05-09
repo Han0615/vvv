@@ -1,8 +1,7 @@
 {
-  "name": "next-app",
+  "name": "vite-react",
   "dependencies": {
-    "next": "13.x",
-    "react": "18.x",
-    "react-dom": "18.x"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   }
 }
